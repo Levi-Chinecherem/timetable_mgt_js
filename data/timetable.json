@@ -1,0 +1,1819 @@
+[
+    {
+      "id": 1,
+      "level": "Level 100",
+      "semester": "Semester 1",
+      "timetable": [
+        {
+          "day": "Monday",
+          "start_time": "08:00",
+          "end_time": "10:00",
+          "course": {
+            "name": "Introduction to Programming"
+          },
+          "lecturer": {
+            "name": "John Doe"
+          }
+        },
+        {
+          "day": "Monday",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "course": {
+            "name": "Database Management Systems"
+          },
+          "lecturer": {
+            "name": "Jane Smith"
+          }
+        },
+        {
+          "day": "Monday",
+          "start_time": "14:00",
+          "end_time": "16:00",
+          "course": {
+            "name": "Web Development"
+          },
+          "lecturer": {
+            "name": "Michael Johnson"
+          }
+        },
+        {
+          "day": "Monday",
+          "start_time": "16:00",
+          "end_time": "18:00",
+          "course": {
+            "name": "Computer Networks"
+          },
+          "lecturer": {
+            "name": "Emily Davis"
+          }
+        },
+        {
+          "day": "Tuesday",
+          "start_time": "08:00",
+          "end_time": "10:00",
+          "course": {
+            "name": "Operating Systems"
+          },
+          "lecturer": {
+            "name": "Robert Wilson"
+          }
+        },
+        {
+          "day": "Tuesday",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "course": {
+            "name": "Introduction to Algorithms"
+          },
+          "lecturer": {
+            "name": "Sarah Adams"
+          }
+        },
+        {
+          "day": "Tuesday",
+          "start_time": "14:00",
+          "end_time": "16:00",
+          "course": {
+            "name": "Software Engineering"
+          },
+          "lecturer": {
+            "name": "David Thompson"
+          }
+        },
+        {
+          "day": "Tuesday",
+          "start_time": "16:00",
+          "end_time": "18:00",
+          "course": {
+            "name": "Data Structures"
+          },
+          "lecturer": {
+            "name": "Daniel Brown"
+          }
+        },
+        {
+          "day": "Wednesday",
+          "start_time": "08:00",
+          "end_time": "10:00",
+          "course": {
+            "name": "Computer Architecture"
+          },
+          "lecturer": {
+            "name": "Sophia Lee"
+          }
+        },
+        {
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "course": {
+            "name": "Artificial Intelligence"
+          },
+          "lecturer": {
+            "name": "Jennifer White"
+          }
+        },
+        {
+          "day": "Wednesday",
+          "start_time": "14:00",
+          "end_time": "16:00",
+          "course": {
+            "name": "Network Security"
+          },
+          "lecturer": {
+            "name": "Emily Davis"
+          }
+        },
+        {
+          "day": "Wednesday",
+          "start_time": "16:00",
+          "end_time": "18:00",
+          "course": {
+            "name": "Operating Systems"
+          },
+          "lecturer": {
+            "name": "Robert Wilson"
+          }
+        },
+        {
+          "day": "Thursday",
+          "start_time": "08:00",
+          "end_time": "10:00",
+          "course": {
+            "name": "Database Systems"
+          },
+          "lecturer": {
+            "name": "Jane Smith"
+          }
+        },
+        {
+          "day": "Thursday",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "course": {
+            "name": "Web Design"
+          },
+          "lecturer": {
+            "name": "Michael Johnson"
+          }
+        },
+        {
+          "day": "Thursday",
+          "start_time": "14:00",
+          "end_time": "16:00",
+          "course": {
+            "name": "Network Security"
+          },
+          "lecturer": {
+            "name": "Emily Davis"
+          }
+        },
+        {
+          "day": "Thursday",
+          "start_time": "16:00",
+          "end_time": "18:00",
+          "course": {
+            "name": "Computer Networks"
+          },
+          "lecturer": {
+            "name": "Robert Wilson"
+          }
+        },
+        {
+          "day": "Friday",
+          "start_time": "08:00",
+          "end_time": "10:00",
+          "course": {
+            "name": "Object-Oriented Programming"
+          },
+          "lecturer": {
+            "name": "John Doe"
+          }
+        },
+        {
+          "day": "Friday",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "course": {
+            "name": "Software Engineering"
+          },
+          "lecturer": {
+            "name": "Jane Smith"
+          }
+        },
+        {
+          "day": "Friday",
+          "start_time": "14:00",
+          "end_time": "16:00",
+          "course": {
+            "name": "Web Design"
+          },
+          "lecturer": {
+            "name": "Michael Johnson"
+          }
+        },
+        {
+          "day": "Friday",
+          "start_time": "16:00",
+          "end_time": "18:00",
+          "course": {
+            "name": "Computer Networks"
+          },
+          "lecturer": {
+            "name": "Emily Davis"
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "Level 100",
+      "semester": "Semester 2",
+      "timetable": [
+        {
+          "day": "Monday",
+          "start_time": "08:00",
+          "end_time": "10:00",
+          "course": {
+            "name": "Introduction to Algorithms"
+          },
+          "lecturer": {
+            "name": "Sarah Adams"
+          }
+        },
+        {
+          "day": "Monday",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "course": {
+            "name": "Software Engineering"
+          },
+          "lecturer": {
+            "name": "David Thompson"
+          }
+        },
+        {
+          "day": "Monday",
+          "start_time": "14:00",
+          "end_time": "16:00",
+          "course": {
+            "name": "Artificial Intelligence"
+          },
+          "lecturer": {
+            "name": "Jennifer White"
+          }
+        },
+        {
+          "day": "Monday",
+          "start_time": "16:00",
+          "end_time": "18:00",
+          "course": {
+            "name": "Data Structures"
+          },
+          "lecturer": {
+            "name": "Daniel Brown"
+          }
+        },
+        {
+          "day": "Tuesday",
+          "start_time": "08:00",
+          "end_time": "10:00",
+          "course": {
+            "name": "Computer Architecture"
+          },
+          "lecturer": {
+            "name": "Sophia Lee"
+          }
+        },
+        {
+          "day": "Tuesday",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "course": {
+            "name": "Operating Systems"
+          },
+          "lecturer": {
+            "name": "Robert Wilson"
+          }
+        },
+        {
+          "day": "Tuesday",
+          "start_time": "14:00",
+          "end_time": "16:00",
+          "course": {
+            "name": "Database Management Systems"
+          },
+          "lecturer": {
+            "name": "Jane Smith"
+          }
+        },
+        {
+          "day": "Tuesday",
+          "start_time": "16:00",
+          "end_time": "18:00",
+          "course": {
+            "name": "Web Development"
+          },
+          "lecturer": {
+            "name": "Michael Johnson"
+          }
+        },
+        {
+          "day": "Wednesday",
+          "start_time": "08:00",
+          "end_time": "10:00",
+          "course": {
+            "name": "Computer Networks"
+          },
+          "lecturer": {
+            "name": "Emily Davis"
+          }
+        },
+        {
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "course": {
+            "name": "Introduction to Programming"
+          },
+          "lecturer": {
+            "name": "John Doe"
+          }
+        },
+        {
+          "day": "Wednesday",
+          "start_time": "14:00",
+          "end_time": "16:00",
+          "course": {
+            "name": "Operating Systems"
+          },
+          "lecturer": {
+            "name": "Robert Wilson"
+          }
+        },
+        {
+          "day": "Wednesday",
+          "start_time": "16:00",
+          "end_time": "18:00",
+          "course": {
+            "name": "Database Management Systems"
+          },
+          "lecturer": {
+            "name": "Jane Smith"
+          }
+        },
+        {
+          "day": "Thursday",
+          "start_time": "08:00",
+          "end_time": "10:00",
+          "course": {
+            "name": "Web Development"
+          },
+          "lecturer": {
+            "name": "Michael Johnson"
+          }
+        },
+        {
+          "day": "Thursday",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "course": {
+            "name": "Computer Networks"
+          },
+          "lecturer": {
+            "name": "Emily Davis"
+          }
+        },
+        {
+          "day": "Thursday",
+          "start_time": "14:00",
+          "end_time": "16:00",
+          "course": {
+            "name": "Introduction to Algorithms"
+          },
+          "lecturer": {
+            "name": "Sarah Adams"
+          }
+        },
+        {
+          "day": "Thursday",
+          "start_time": "16:00",
+          "end_time": "18:00",
+          "course": {
+            "name": "Software Engineering"
+          },
+          "lecturer": {
+            "name": "David Thompson"
+          }
+        },
+        {
+          "day": "Friday",
+          "start_time": "08:00",
+          "end_time": "10:00",
+          "course": {
+            "name": "Data Structures"
+          },
+          "lecturer": {
+            "name": "Daniel Brown"
+          }
+        },
+        {
+          "day": "Friday",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "course": {
+            "name": "Computer Architecture"
+          },
+          "lecturer": {
+            "name": "Sophia Lee"
+          }
+        },
+        {
+          "day": "Friday",
+          "start_time": "14:00",
+          "end_time": "16:00",
+          "course": {
+            "name": "Artificial Intelligence"
+          },
+          "lecturer": {
+            "name": "Jennifer White"
+          }
+        },
+        {
+          "day": "Friday",
+          "start_time": "16:00",
+          "end_time": "18:00",
+          "course": {
+            "name": "Database Systems"
+          },
+          "lecturer": {
+            "name": "Jane Smith"
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "Level 200",
+      "semester": "Semester 1",
+      "timetable": [
+        {
+          "day": "Monday",
+          "start_time": "08:00",
+          "end_time": "10:00",
+          "course": {
+            "name": "Computer Graphics"
+          },
+          "lecturer": {
+            "name": "Daniel Brown"
+          }
+        },
+        {
+          "day": "Monday",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "course": {
+            "name": "Software Testing"
+          },
+          "lecturer": {
+            "name": "David Thompson"
+          }
+        },
+        {
+          "day": "Monday",
+          "start_time": "14:00",
+          "end_time": "16:00",
+          "course": {
+            "name": "Machine Learning"
+          },
+          "lecturer": {
+            "name": "Jennifer White"
+          }
+        },
+        {
+          "day": "Monday",
+          "start_time": "16:00",
+          "end_time": "18:00",
+          "course": {
+            "name": "Computer Networks"
+          },
+          "lecturer": {
+            "name": "Sophia Lee"
+          }
+        },
+        {
+          "day": "Tuesday",
+          "start_time": "08:00",
+          "end_time": "10:00",
+          "course": {
+            "name": "Data Mining"
+          },
+          "lecturer": {
+            "name": "Sarah Adams"
+          }
+        },
+        {
+          "day": "Tuesday",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "course": {
+            "name": "Operating Systems"
+          },
+          "lecturer": {
+            "name": "Robert Wilson"
+          }
+        },
+        {
+          "day": "Tuesday",
+          "start_time": "14:00",
+          "end_time": "16:00",
+          "course": {
+            "name": "Web Development"
+          },
+          "lecturer": {
+            "name": "Michael Johnson"
+          }
+        },
+        {
+          "day": "Tuesday",
+          "start_time": "16:00",
+          "end_time": "18:00",
+          "course": {
+            "name": "Database Management Systems"
+          },
+          "lecturer": {
+            "name": "Jane Smith"
+          }
+        },
+        {
+          "day": "Wednesday",
+          "start_time": "08:00",
+          "end_time": "10:00",
+          "course": {
+            "name": "Artificial Intelligence"
+          },
+          "lecturer": {
+            "name": "Emily Davis"
+          }
+        },
+        {
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "course": {
+            "name": "Introduction to Algorithms"
+          },
+          "lecturer": {
+            "name": "John Doe"
+          }
+        },
+        {
+          "day": "Wednesday",
+          "start_time": "14:00",
+          "end_time": "16:00",
+          "course": {
+            "name": "Computer Architecture"
+          },
+          "lecturer": {
+            "name": "Robert Wilson"
+          }
+        },
+        {
+          "day": "Wednesday",
+          "start_time": "16:00",
+          "end_time": "18:00",
+          "course": {
+            "name": "Network Security"
+          },
+          "lecturer": {
+            "name": "Sophia Lee"
+          }
+        },
+        {
+          "day": "Thursday",
+          "start_time": "08:00",
+          "end_time": "10:00",
+          "course": {
+            "name": "Software Engineering"
+          },
+          "lecturer": {
+            "name": "David Thompson"
+          }
+        },
+        {
+          "day": "Thursday",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "course": {
+            "name": "Computer Networks"
+          },
+          "lecturer": {
+            "name": "Emily Davis"
+          }
+        },
+        {
+          "day": "Thursday",
+          "start_time": "14:00",
+          "end_time": "16:00",
+          "course": {
+            "name": "Database Systems"
+          },
+          "lecturer": {
+            "name": "Jane Smith"
+          }
+        },
+        {
+          "day": "Thursday",
+          "start_time": "16:00",
+          "end_time": "18:00",
+          "course": {
+            "name": "Web Design"
+          },
+          "lecturer": {
+            "name": "Michael Johnson"
+          }
+        },
+        {
+          "day": "Friday",
+          "start_time": "08:00",
+          "end_time": "10:00",
+          "course": {
+            "name": "Introduction to Programming"
+          },
+          "lecturer": {
+            "name": "John Doe"
+          }
+        },
+        {
+          "day": "Friday",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "course": {
+            "name": "Operating Systems"
+          },
+          "lecturer": {
+            "name": "Robert Wilson"
+          }
+        },
+        {
+          "day": "Friday",
+          "start_time": "14:00",
+          "end_time": "16:00",
+          "course": {
+            "name": "Computer Networks"
+          },
+          "lecturer": {
+            "name": "Emily Davis"
+          }
+        },
+        {
+          "day": "Friday",
+          "start_time": "16:00",
+          "end_time": "18:00",
+          "course": {
+            "name": "Network Security"
+          },
+          "lecturer": {
+            "name": "Sophia Lee"
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "Level 200",
+      "semester": "Semester 2",
+      "timetable": [
+        {
+          "day": "Monday",
+          "start_time": "08:00",
+          "end_time": "10:00",
+          "course": {
+            "name": "Artificial Intelligence"
+          },
+          "lecturer": {
+            "name": "Jennifer White"
+          }
+        },
+        {
+          "day": "Monday",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "course": {
+            "name": "Database Systems"
+          },
+          "lecturer": {
+            "name": "Jane Smith"
+          }
+        },
+        {
+          "day": "Monday",
+          "start_time": "14:00",
+          "end_time": "16:00",
+          "course": {
+            "name": "Web Design"
+          },
+          "lecturer": {
+            "name": "Michael Johnson"
+          }
+        },
+        {
+          "day": "Monday",
+          "start_time": "16:00",
+          "end_time": "18:00",
+          "course": {
+            "name": "Network Security"
+          },
+          "lecturer": {
+            "name": "Emily Davis"
+          }
+        },
+        {
+          "day": "Tuesday",
+          "start_time": "08:00",
+          "end_time": "10:00",
+          "course": {
+            "name": "Operating Systems"
+          },
+          "lecturer": {
+            "name": "Robert Wilson"
+          }
+        },
+        {
+          "day": "Tuesday",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "course": {
+            "name": "Database Management Systems"
+          },
+          "lecturer": {
+            "name": "Jane Smith"
+          }
+        },
+        {
+          "day": "Tuesday",
+          "start_time": "14:00",
+          "end_time": "16:00",
+          "course": {
+            "name": "Web Development"
+          },
+          "lecturer": {
+            "name": "Michael Johnson"
+          }
+        },
+        {
+          "day": "Tuesday",
+          "start_time": "16:00",
+          "end_time": "18:00",
+          "course": {
+            "name": "Computer Networks"
+          },
+          "lecturer": {
+            "name": "Emily Davis"
+          }
+        },
+        {
+          "day": "Wednesday",
+          "start_time": "08:00",
+          "end_time": "10:00",
+          "course": {
+            "name": "Introduction to Programming"
+          },
+          "lecturer": {
+            "name": "John Doe"
+          }
+        },
+        {
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "course": {
+            "name": "Operating Systems"
+          },
+          "lecturer": {
+            "name": "Robert Wilson"
+          }
+        },
+        {
+          "day": "Wednesday",
+          "start_time": "14:00",
+          "end_time": "16:00",
+          "course": {
+            "name": "Data Structures"
+          },
+          "lecturer": {
+            "name": "Daniel Brown"
+          }
+        },
+        {
+          "day": "Wednesday",
+          "start_time": "16:00",
+          "end_time": "18:00",
+          "course": {
+            "name": "Computer Architecture"
+          },
+          "lecturer": {
+            "name": "Sophia Lee"
+          }
+        },
+        {
+          "day": "Thursday",
+          "start_time": "08:00",
+          "end_time": "10:00",
+          "course": {
+            "name": "Network Security"
+          },
+          "lecturer": {
+            "name": "Emily Davis"
+          }
+        },
+        {
+          "day": "Thursday",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "course": {
+            "name": "Software Engineering"
+          },
+          "lecturer": {
+            "name": "David Thompson"
+          }
+        },
+        {
+          "day": "Thursday",
+          "start_time": "14:00",
+          "end_time": "16:00",
+          "course": {
+            "name": "Web Development"
+          },
+          "lecturer": {
+            "name": "Michael Johnson"
+          }
+        },
+        {
+          "day": "Thursday",
+          "start_time": "16:00",
+          "end_time": "18:00",
+          "course": {
+            "name": "Database Management Systems"
+          },
+          "lecturer": {
+            "name": "Jane Smith"
+          }
+        },
+        {
+          "day": "Friday",
+          "start_time": "08:00",
+          "end_time": "10:00",
+          "course": {
+            "name": "Computer Architecture"
+          },
+          "lecturer": {
+            "name": "Sophia Lee"
+          }
+        },
+        {
+          "day": "Friday",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "course": {
+            "name": "Introduction to Programming"
+          },
+          "lecturer": {
+            "name": "John Doe"
+          }
+        },
+        {
+          "day": "Friday",
+          "start_time": "14:00",
+          "end_time": "16:00",
+          "course": {
+            "name": "Data Structures"
+          },
+          "lecturer": {
+            "name": "Daniel Brown"
+          }
+        },
+        {
+          "day": "Friday",
+          "start_time": "16:00",
+          "end_time": "18:00",
+          "course": {
+            "name": "Artificial Intelligence"
+          },
+          "lecturer": {
+            "name": "Jennifer White"
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "Level 300",
+      "semester": "Semester 1",
+      "timetable": [
+        {
+          "day": "Monday",
+          "start_time": "08:00",
+          "end_time": "10:00",
+          "course": {
+            "name": "Database Management Systems"
+          },
+          "lecturer": {
+            "name": "Jane Smith"
+          }
+        },
+        {
+          "day": "Monday",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "course": {
+            "name": "Web Development"
+          },
+          "lecturer": {
+            "name": "Michael Johnson"
+          }
+        },
+        {
+          "day": "Monday",
+          "start_time": "14:00",
+          "end_time": "16:00",
+          "course": {
+            "name": "Software Engineering"
+          },
+          "lecturer": {
+            "name": "David Thompson"
+          }
+        },
+        {
+          "day": "Monday",
+          "start_time": "16:00",
+          "end_time": "18:00",
+          "course": {
+            "name": "Data Structures"
+          },
+          "lecturer": {
+            "name": "Daniel Brown"
+          }
+        },
+        {
+          "day": "Tuesday",
+          "start_time": "08:00",
+          "end_time": "10:00",
+          "course": {
+            "name": "Artificial Intelligence"
+          },
+          "lecturer": {
+            "name": "Jennifer White"
+          }
+        },
+        {
+          "day": "Tuesday",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "course": {
+            "name": "Computer Networks"
+          },
+          "lecturer": {
+            "name": "Emily Davis"
+          }
+        },
+        {
+          "day": "Tuesday",
+          "start_time": "14:00",
+          "end_time": "16:00",
+          "course": {
+            "name": "Network Security"
+          },
+          "lecturer": {
+            "name": "Sophia Lee"
+          }
+        },
+        {
+          "day": "Tuesday",
+          "start_time": "16:00",
+          "end_time": "18:00",
+          "course": {
+            "name": "Database Systems"
+          },
+          "lecturer": {
+            "name": "Jane Smith"
+          }
+        },
+        {
+          "day": "Wednesday",
+          "start_time": "08:00",
+          "end_time": "10:00",
+          "course": {
+            "name": "Operating Systems"
+          },
+          "lecturer": {
+            "name": "Robert Wilson"
+          }
+        },
+        {
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "course": {
+            "name": "Data Mining"
+          },
+          "lecturer": {
+            "name": "Sarah Adams"
+          }
+        },
+        {
+          "day": "Wednesday",
+          "start_time": "14:00",
+          "end_time": "16:00",
+          "course": {
+            "name": "Web Design"
+          },
+          "lecturer": {
+            "name": "Michael Johnson"
+          }
+        },
+        {
+          "day": "Wednesday",
+          "start_time": "16:00",
+          "end_time": "18:00",
+          "course": {
+            "name": "Machine Learning"
+          },
+          "lecturer": {
+            "name": "Jennifer White"
+          }
+        },
+        {
+          "day": "Thursday",
+          "start_time": "08:00",
+          "end_time": "10:00",
+          "course": {
+            "name": "Introduction to Algorithms"
+          },
+          "lecturer": {
+            "name": "John Doe"
+          }
+        },
+        {
+          "day": "Thursday",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "course": {
+            "name": "Computer Architecture"
+          },
+          "lecturer": {
+            "name": "Sophia Lee"
+          }
+        },
+        {
+          "day": "Thursday",
+          "start_time": "14:00",
+          "end_time": "16:00",
+          "course": {
+            "name": "Software Engineering"
+          },
+          "lecturer": {
+            "name": "David Thompson"
+          }
+        },
+        {
+          "day": "Thursday",
+          "start_time": "16:00",
+          "end_time": "18:00",
+          "course": {
+            "name": "Web Development"
+          },
+          "lecturer": {
+            "name": "Michael Johnson"
+          }
+        },
+        {
+          "day": "Friday",
+          "start_time": "08:00",
+          "end_time": "10:00",
+          "course": {
+            "name": "Database Systems"
+          },
+          "lecturer": {
+            "name": "Jane Smith"
+          }
+        },
+        {
+          "day": "Friday",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "course": {
+            "name": "Artificial Intelligence"
+          },
+          "lecturer": {
+            "name": "Jennifer White"
+          }
+        },
+        {
+          "day": "Friday",
+          "start_time": "14:00",
+          "end_time": "16:00",
+          "course": {
+            "name": "Computer Networks"
+          },
+          "lecturer": {
+            "name": "Emily Davis"
+          }
+        },
+        {
+          "day": "Friday",
+          "start_time": "16:00",
+          "end_time": "18:00",
+          "course": {
+            "name": "Network Security"
+          },
+          "lecturer": {
+            "name": "Sophia Lee"
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "level": "Level 300",
+      "semester": "Semester 2",
+      "timetable": [
+        {
+          "day": "Monday",
+          "start_time": "08:00",
+          "end_time": "10:00",
+          "course": {
+            "name": "Data Mining"
+          },
+          "lecturer": {
+            "name": "Sarah Adams"
+          }
+        },
+        {
+          "day": "Monday",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "course": {
+            "name": "Web Design"
+          },
+          "lecturer": {
+            "name": "Michael Johnson"
+          }
+        },
+        {
+          "day": "Monday",
+          "start_time": "14:00",
+          "end_time": "16:00",
+          "course": {
+            "name": "Machine Learning"
+          },
+          "lecturer": {
+            "name": "Jennifer White"
+          }
+        },
+        {
+          "day": "Monday",
+          "start_time": "16:00",
+          "end_time": "18:00",
+          "course": {
+            "name": "Introduction to Algorithms"
+          },
+          "lecturer": {
+            "name": "John Doe"
+          }
+        },
+        {
+          "day": "Tuesday",
+          "start_time": "08:00",
+          "end_time": "10:00",
+          "course": {
+            "name": "Software Engineering"
+          },
+          "lecturer": {
+            "name": "David Thompson"
+          }
+        },
+        {
+          "day": "Tuesday",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "course": {
+            "name": "Web Development"
+          },
+          "lecturer": {
+            "name": "Michael Johnson"
+          }
+        },
+        {
+          "day": "Tuesday",
+          "start_time": "14:00",
+          "end_time": "16:00",
+          "course": {
+            "name": "Database Systems"
+          },
+          "lecturer": {
+            "name": "Jane Smith"
+          }
+        },
+        {
+          "day": "Tuesday",
+          "start_time": "16:00",
+          "end_time": "18:00",
+          "course": {
+            "name": "Artificial Intelligence"
+          },
+          "lecturer": {
+            "name": "Jennifer White"
+          }
+        },
+        {
+          "day": "Wednesday",
+          "start_time": "08:00",
+          "end_time": "10:00",
+          "course": {
+            "name": "Computer Networks"
+          },
+          "lecturer": {
+            "name": "Emily Davis"
+          }
+        },
+        {
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "course": {
+            "name": "Database Management Systems"
+          },
+          "lecturer": {
+            "name": "Jane Smith"
+          }
+        },
+        {
+          "day": "Wednesday",
+          "start_time": "14:00",
+          "end_time": "16:00",
+          "course": {
+            "name": "Data Structures"
+          },
+          "lecturer": {
+            "name": "Daniel Brown"
+          }
+        },
+        {
+          "day": "Wednesday",
+          "start_time": "16:00",
+          "end_time": "18:00",
+          "course": {
+            "name": "Computer Architecture"
+          },
+          "lecturer": {
+            "name": "Sophia Lee"
+          }
+        },
+        {
+          "day": "Thursday",
+          "start_time": "08:00",
+          "end_time": "10:00",
+          "course": {
+            "name": "Introduction to Programming"
+          },
+          "lecturer": {
+            "name": "John Doe"
+          }
+        },
+        {
+          "day": "Thursday",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "course": {
+            "name": "Operating Systems"
+          },
+          "lecturer": {
+            "name": "Robert Wilson"
+          }
+        },
+        {
+          "day": "Thursday",
+          "start_time": "14:00",
+          "end_time": "16:00",
+          "course": {
+            "name": "Network Security"
+          },
+          "lecturer": {
+            "name": "Emily Davis"
+          }
+        },
+        {
+          "day": "Thursday",
+          "start_time": "16:00",
+          "end_time": "18:00",
+          "course": {
+            "name": "Software Engineering"
+          },
+          "lecturer": {
+            "name": "David Thompson"
+          }
+        },
+        {
+          "day": "Friday",
+          "start_time": "08:00",
+          "end_time": "10:00",
+          "course": {
+            "name": "Computer Architecture"
+          },
+          "lecturer": {
+            "name": "Sophia Lee"
+          }
+        },
+        {
+          "day": "Friday",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "course": {
+            "name": "Introduction to Programming"
+          },
+          "lecturer": {
+            "name": "John Doe"
+          }
+        },
+        {
+          "day": "Friday",
+          "start_time": "14:00",
+          "end_time": "16:00",
+          "course": {
+            "name": "Data Structures"
+          },
+          "lecturer": {
+            "name": "Daniel Brown"
+          }
+        },
+        {
+          "day": "Friday",
+          "start_time": "16:00",
+          "end_time": "18:00",
+          "course": {
+            "name": "Artificial Intelligence"
+          },
+          "lecturer": {
+            "name": "Jennifer White"
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "level": "Level 400",
+      "semester": "Semester 1",
+      "timetable": [
+        {
+          "day": "Monday",
+          "start_time": "08:00",
+          "end_time": "10:00",
+          "course": {
+            "name": "Web Development"
+          },
+          "lecturer": {
+            "name": "Michael Johnson"
+          }
+        },
+        {
+          "day": "Monday",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "course": {
+            "name": "Database Management Systems"
+          },
+          "lecturer": {
+            "name": "Jane Smith"
+          }
+        },
+        {
+          "day": "Monday",
+          "start_time": "14:00",
+          "end_time": "16:00",
+          "course": {
+            "name": "Software Engineering"
+          },
+          "lecturer": {
+            "name": "David Thompson"
+          }
+        },
+        {
+          "day": "Monday",
+          "start_time": "16:00",
+          "end_time": "18:00",
+          "course": {
+            "name": "Data Structures"
+          },
+          "lecturer": {
+            "name": "Daniel Brown"
+          }
+        },
+        {
+          "day": "Tuesday",
+          "start_time": "08:00",
+          "end_time": "10:00",
+          "course": {
+            "name": "Artificial Intelligence"
+          },
+          "lecturer": {
+            "name": "Jennifer White"
+          }
+        },
+        {
+          "day": "Tuesday",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "course": {
+            "name": "Computer Networks"
+          },
+          "lecturer": {
+            "name": "Emily Davis"
+          }
+        },
+        {
+          "day": "Tuesday",
+          "start_time": "14:00",
+          "end_time": "16:00",
+          "course": {
+            "name": "Network Security"
+          },
+          "lecturer": {
+            "name": "Sophia Lee"
+          }
+        },
+        {
+          "day": "Tuesday",
+          "start_time": "16:00",
+          "end_time": "18:00",
+          "course": {
+            "name": "Database Systems"
+          },
+          "lecturer": {
+            "name": "Jane Smith"
+          }
+        },
+        {
+          "day": "Wednesday",
+          "start_time": "08:00",
+          "end_time": "10:00",
+          "course": {
+            "name": "Operating Systems"
+          },
+          "lecturer": {
+            "name": "Robert Wilson"
+          }
+        },
+        {
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "course": {
+            "name": "Data Mining"
+          },
+          "lecturer": {
+            "name": "Sarah Adams"
+          }
+        },
+        {
+          "day": "Wednesday",
+          "start_time": "14:00",
+          "end_time": "16:00",
+          "course": {
+            "name": "Web Design"
+          },
+          "lecturer": {
+            "name": "Michael Johnson"
+          }
+        },
+        {
+          "day": "Wednesday",
+          "start_time": "16:00",
+          "end_time": "18:00",
+          "course": {
+            "name": "Machine Learning"
+          },
+          "lecturer": {
+            "name": "Jennifer White"
+          }
+        },
+        {
+          "day": "Thursday",
+          "start_time": "08:00",
+          "end_time": "10:00",
+          "course": {
+            "name": "Introduction to Algorithms"
+          },
+          "lecturer": {
+            "name": "John Doe"
+          }
+        },
+        {
+          "day": "Thursday",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "course": {
+            "name": "Computer Architecture"
+          },
+          "lecturer": {
+            "name": "Sophia Lee"
+          }
+        },
+        {
+          "day": "Thursday",
+          "start_time": "14:00",
+          "end_time": "16:00",
+          "course": {
+            "name": "Software Engineering"
+          },
+          "lecturer": {
+            "name": "David Thompson"
+          }
+        },
+        {
+          "day": "Thursday",
+          "start_time": "16:00",
+          "end_time": "18:00",
+          "course": {
+            "name": "Web Development"
+          },
+          "lecturer": {
+            "name": "Michael Johnson"
+          }
+        },
+        {
+          "day": "Friday",
+          "start_time": "08:00",
+          "end_time": "10:00",
+          "course": {
+            "name": "Database Systems"
+          },
+          "lecturer": {
+            "name": "Jane Smith"
+          }
+        },
+        {
+          "day": "Friday",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "course": {
+            "name": "Artificial Intelligence"
+          },
+          "lecturer": {
+            "name": "Jennifer White"
+          }
+        },
+        {
+          "day": "Friday",
+          "start_time": "14:00",
+          "end_time": "16:00",
+          "course": {
+            "name": "Computer Networks"
+          },
+          "lecturer": {
+            "name": "Emily Davis"
+          }
+        },
+        {
+          "day": "Friday",
+          "start_time": "16:00",
+          "end_time": "18:00",
+          "course": {
+            "name": "Network Security"
+          },
+          "lecturer": {
+            "name": "Sophia Lee"
+          }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "level": "Level 400",
+      "semester": "Semester 2",
+      "timetable": [
+        {
+          "day": "Monday",
+          "start_time": "08:00",
+          "end_time": "10:00",
+          "course": {
+            "name": "Data Mining"
+          },
+          "lecturer": {
+            "name": "Sarah Adams"
+          }
+        },
+        {
+          "day": "Monday",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "course": {
+            "name": "Web Design"
+          },
+          "lecturer": {
+            "name": "Michael Johnson"
+          }
+        },
+        {
+          "day": "Monday",
+          "start_time": "14:00",
+          "end_time": "16:00",
+          "course": {
+            "name": "Machine Learning"
+          },
+          "lecturer": {
+            "name": "Jennifer White"
+          }
+        },
+        {
+          "day": "Monday",
+          "start_time": "16:00",
+          "end_time": "18:00",
+          "course": {
+            "name": "Introduction to Algorithms"
+          },
+          "lecturer": {
+            "name": "John Doe"
+          }
+        },
+        {
+          "day": "Tuesday",
+          "start_time": "08:00",
+          "end_time": "10:00",
+          "course": {
+            "name": "Software Engineering"
+          },
+          "lecturer": {
+            "name": "David Thompson"
+          }
+        },
+        {
+          "day": "Tuesday",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "course": {
+            "name": "Web Development"
+          },
+          "lecturer": {
+            "name": "Michael Johnson"
+          }
+        },
+        {
+          "day": "Tuesday",
+          "start_time": "14:00",
+          "end_time": "16:00",
+          "course": {
+            "name": "Database Systems"
+          },
+          "lecturer": {
+            "name": "Jane Smith"
+          }
+        },
+        {
+          "day": "Tuesday",
+          "start_time": "16:00",
+          "end_time": "18:00",
+          "course": {
+            "name": "Artificial Intelligence"
+          },
+          "lecturer": {
+            "name": "Jennifer White"
+          }
+        },
+        {
+          "day": "Wednesday",
+          "start_time": "08:00",
+          "end_time": "10:00",
+          "course": {
+            "name": "Computer Networks"
+          },
+          "lecturer": {
+            "name": "Emily Davis"
+          }
+        },
+        {
+          "day": "Wednesday",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "course": {
+            "name": "Database Management Systems"
+          },
+          "lecturer": {
+            "name": "Jane Smith"
+          }
+        },
+        {
+          "day": "Wednesday",
+          "start_time": "14:00",
+          "end_time": "16:00",
+          "course": {
+            "name": "Data Structures"
+          },
+          "lecturer": {
+            "name": "Daniel Brown"
+          }
+        },
+        {
+          "day": "Wednesday",
+          "start_time": "16:00",
+          "end_time": "18:00",
+          "course": {
+            "name": "Computer Architecture"
+          },
+          "lecturer": {
+            "name": "Sophia Lee"
+          }
+        },
+        {
+          "day": "Thursday",
+          "start_time": "08:00",
+          "end_time": "10:00",
+          "course": {
+            "name": "Introduction to Programming"
+          },
+          "lecturer": {
+            "name": "John Doe"
+          }
+        },
+        {
+          "day": "Thursday",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "course": {
+            "name": "Operating Systems"
+          },
+          "lecturer": {
+            "name": "Robert Wilson"
+          }
+        },
+        {
+          "day": "Thursday",
+          "start_time": "14:00",
+          "end_time": "16:00",
+          "course": {
+            "name": "Network Security"
+          },
+          "lecturer": {
+            "name": "Emily Davis"
+          }
+        },
+        {
+          "day": "Thursday",
+          "start_time": "16:00",
+          "end_time": "18:00",
+          "course": {
+            "name": "Software Engineering"
+          },
+          "lecturer": {
+            "name": "David Thompson"
+          }
+        },
+        {
+          "day": "Friday",
+          "start_time": "08:00",
+          "end_time": "10:00",
+          "course": {
+            "name": "Computer Architecture"
+          },
+          "lecturer": {
+            "name": "Sophia Lee"
+          }
+        },
+        {
+          "day": "Friday",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "course": {
+            "name": "Introduction to Programming"
+          },
+          "lecturer": {
+            "name": "John Doe"
+          }
+        },
+        {
+          "day": "Friday",
+          "start_time": "14:00",
+          "end_time": "16:00",
+          "course": {
+            "name": "Data Structures"
+          },
+          "lecturer": {
+            "name": "Daniel Brown"
+          }
+        },
+        {
+          "day": "Friday",
+          "start_time": "16:00",
+          "end_time": "18:00",
+          "course": {
+            "name": "Artificial Intelligence"
+          },
+          "lecturer": {
+            "name": "Jennifer White"
+          }
+        }
+      ]
+    }
+  ]
+  

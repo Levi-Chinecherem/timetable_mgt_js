@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Timetable Management - View Courses</title>
+  <link rel="stylesheet" type="text/css" href="css/course.css">
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script src="js/course.js"></script>
+</head>
+<body>
+  <h1>View Courses</h1><br>
+
+  <form id="course-form">
+    <label for="level">Level:</label>
+    <select id="level">
+    <option>Select</option>
+    </select>
+
+    <label for="semester">Semester:</label>
+    <select id="semester"></select>
+
+    <button type="submit">View Courses</button>
+  </form>
+
+  <ul id="course-list">
+    <!-- Course data will be populated dynamically here -->
+  </ul>
+</body>
+</html>

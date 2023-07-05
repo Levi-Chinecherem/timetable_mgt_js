@@ -1,0 +1,318 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "specialization": "Computer Networks",
+      "semester": "Semester 1",
+      "level": "Level 200"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "specialization": "Database Management Systems",
+      "semester": "Semester 2",
+      "level": "Level 300"
+    },
+    {
+      "id": 3,
+      "name": "Michael Johnson",
+      "specialization": "Software Engineering",
+      "semester": "Semester 1",
+      "level": "Level 300"
+    },
+    {
+      "id": 4,
+      "name": "Emily Davis",
+      "specialization": "Artificial Intelligence",
+      "semester": "Semester 2",
+      "level": "Level 400"
+    },
+    {
+      "id": 5,
+      "name": "Robert Wilson",
+      "specialization": "Web Development",
+      "semester": "Semester 1",
+      "level": "Level 400"
+    },
+    {
+      "id": 6,
+      "name": "Sarah Adams",
+      "specialization": "Computer Graphics",
+      "semester": "Semester 2",
+      "level": "Level 200"
+    },
+    {
+      "id": 7,
+      "name": "David Thompson",
+      "specialization": "Mobile App Development",
+      "semester": "Semester 1",
+      "level": "Level 200"
+    },
+    {
+      "id": 8,
+      "name": "Jennifer White",
+      "specialization": "Data Science",
+      "semester": "Semester 2",
+      "level": "Level 300"
+    },
+    {
+      "id": 9,
+      "name": "Daniel Brown",
+      "specialization": "Cybersecurity",
+      "semester": "Semester 1",
+      "level": "Level 300"
+    },
+    {
+      "id": 10,
+      "name": "Sophia Lee",
+      "specialization": "Operating Systems",
+      "semester": "Semester 2",
+      "level": "Level 400"
+    },
+    {
+      "id": 11,
+      "name": "Matthew Clark",
+      "specialization": "Software Testing",
+      "semester": "Semester 1",
+      "level": "Level 400"
+    },
+    {
+      "id": 12,
+      "name": "Olivia Green",
+      "specialization": "Machine Learning",
+      "semester": "Semester 2",
+      "level": "Level 100"
+    },
+    {
+      "id": 13,
+      "name": "James Baker",
+      "specialization": "Computer Architecture",
+      "semester": "Semester 1",
+      "level": "Level 100"
+    },
+    {
+      "id": 14,
+      "name": "Ava Rodriguez",
+      "specialization": "Information Retrieval",
+      "semester": "Semester 2",
+      "level": "Level 100"
+    },
+    {
+      "id": 15,
+      "name": "William Martinez",
+      "specialization": "Natural Language Processing",
+      "semester": "Semester 1",
+      "level": "Level 100"
+    },
+    {
+      "id": 16,
+      "name": "David Wilson",
+      "specialization": "Computer Networks 2",
+      "semester": "Semester 2",
+      "level": "Level 200"
+    },
+    {
+      "id": 17,
+      "name": "Jessica Thompson",
+      "specialization": "Database Management Systems 2",
+      "semester": "Semester 1",
+      "level": "Level 200"
+    },
+    {
+      "id": 18,
+      "name": "Thomas Johnson",
+      "specialization": "Software Engineering 2",
+      "semester": "Semester 2",
+      "level": "Level 300"
+    },
+    {
+      "id": 19,
+      "name": "Sophie Davis",
+      "specialization": "Artificial Intelligence 2",
+      "semester": "Semester 1",
+      "level": "Level 300"
+    },
+    {
+      "id": 20,
+      "name": "Nathan Wilson",
+      "specialization": "Web Development 2",
+      "semester": "Semester 2",
+      "level": "Level 400"
+    },
+    {
+      "id": 21,
+      "name": "Oliver Adams",
+      "specialization": "Computer Graphics 2",
+      "semester": "Semester 1",
+      "level": "Level 400"
+    },
+    {
+      "id": 22,
+      "name": "Grace Thompson",
+      "specialization": "Mobile App Development 2",
+      "semester": "Semester 2",
+      "level": "Level 200"
+    },
+    {
+      "id": 23,
+      "name": "Christopher White",
+      "specialization": "Data Science 2",
+      "semester": "Semester 1",
+      "level": "Level 200"
+    },
+    {
+      "id": 24,
+      "name": "Ella Brown",
+      "specialization": "Cybersecurity 2",
+      "semester": "Semester 2",
+      "level": "Level 300"
+    },
+    {
+      "id": 25,
+      "name": "William Lee",
+      "specialization": "Operating Systems 2",
+      "semester": "Semester 1",
+      "level": "Level 300"
+    },
+    {
+      "id": 26,
+      "name": "Charlotte Clark",
+      "specialization": "Software Testing 2",
+      "semester": "Semester 2",
+      "level": "Level 400"
+    },
+    {
+      "id": 27,
+      "name": "Henry Green",
+      "specialization": "Machine Learning 2",
+      "semester": "Semester 1",
+      "level": "Level 400"
+    },
+    {
+      "id": 28,
+      "name": "Mia Baker",
+      "specialization": "Computer Architecture 2",
+      "semester": "Semester 2",
+      "level": "Level 100"
+    },
+    {
+      "id": 29,
+      "name": "Noah Rodriguez",
+      "specialization": "Information Retrieval 2",
+      "semester": "Semester 1",
+      "level": "Level 100"
+    },
+    {
+      "id": 30,
+      "name": "Liam Martinez",
+      "specialization": "Natural Language Processing 2",
+      "semester": "Semester 2",
+      "level": "Level 100"
+    },
+    {
+      "id": 31,
+      "name": "Isabella Wilson",
+      "specialization": "Computer Networks 3",
+      "semester": "Semester 1",
+      "level": "Level 200"
+    },
+    {
+      "id": 32,
+      "name": "Jacob Thompson",
+      "specialization": "Database Management Systems 3",
+      "semester": "Semester 2",
+      "level": "Level 200"
+    },
+    {
+      "id": 33,
+      "name": "Olivia Johnson",
+      "specialization": "Software Engineering 3",
+      "semester": "Semester 1",
+      "level": "Level 300"
+    },
+    {
+      "id": 34,
+      "name": "Ethan Davis",
+      "specialization": "Artificial Intelligence 3",
+      "semester": "Semester 2",
+      "level": "Level 300"
+    },
+    {
+      "id": 35,
+      "name": "Emma Wilson",
+      "specialization": "Web Development 3",
+      "semester": "Semester 1",
+      "level": "Level 400"
+    },
+    {
+      "id": 36,
+      "name": "Michael Adams",
+      "specialization": "Computer Graphics 3",
+      "semester": "Semester 2",
+      "level": "Level 400"
+    },
+    {
+      "id": 37,
+      "name": "Abigail Thompson",
+      "specialization": "Mobile App Development 3",
+      "semester": "Semester 1",
+      "level": "Level 200"
+    },
+    {
+      "id": 38,
+      "name": "Alexander White",
+      "specialization": "Data Science 3",
+      "semester": "Semester 2",
+      "level": "Level 200"
+    },
+    {
+      "id": 39,
+      "name": "Sofia Brown",
+      "specialization": "Cybersecurity 3",
+      "semester": "Semester 1",
+      "level": "Level 300"
+    },
+    {
+      "id": 40,
+      "name": "Benjamin Lee",
+      "specialization": "Operating Systems 3",
+      "semester": "Semester 2",
+      "level": "Level 300"
+    },
+    {
+      "id": 41,
+      "name": "Victoria Clark",
+      "specialization": "Software Testing 3",
+      "semester": "Semester 1",
+      "level": "Level 400"
+    },
+    {
+      "id": 42,
+      "name": "Charles Green",
+      "specialization": "Machine Learning 3",
+      "semester": "Semester 2",
+      "level": "Level 400"
+    },
+    {
+      "id": 43,
+      "name": "Hannah Baker",
+      "specialization": "Computer Architecture 3",
+      "semester": "Semester 1",
+      "level": "Level 100"
+    },
+    {
+      "id": 44,
+      "name": "Lucas Rodriguez",
+      "specialization": "Information Retrieval 3",
+      "semester": "Semester 2",
+      "level": "Level 100"
+    },
+    {
+      "id": 45,
+      "name": "Zoe Martinez",
+      "specialization": "Natural Language Processing 3",
+      "semester": "Semester 1",
+      "level": "Level 100"
+    }
+  ]
+  

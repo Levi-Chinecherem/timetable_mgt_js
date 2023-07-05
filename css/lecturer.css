@@ -1,0 +1,68 @@
+/* Page Styling */
+body {
+  font-family: cursive;
+    margin: 0;
+    padding: 20px;
+  }
+
+  h1 {
+    text-align: center;
+    color: #333;
+  }
+
+  h2 {
+    color: #333;
+  }
+
+  #lecturer-form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+
+  #lecturer-form label {
+    margin-right: 10px;
+  }
+
+  #lecturer-form select {
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    outline: none;
+  }
+
+  #lecturer-form button {
+    padding: 5px 10px;
+    background-color: #2980b9;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+  #lecturer-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  #lecturer-list li {
+    background-color: #fff;
+    padding: 10px;
+    margin-bottom: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+
+  /* Responsive Styling */
+  @media screen and (max-width: 600px) {
+    #lecturer-form {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+
+    #lecturer-form label,
+    #lecturer-form select {
+      margin-bottom: 10px;
+    }
+  }

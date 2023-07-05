@@ -1,0 +1,35 @@
+/* Add border to the timetable table */
+#timetable-table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  /* Add border to table cells */
+  #timetable-table th,
+  #timetable-table td {
+    border: 1px solid black;
+    padding: 8px;
+  }
+  
+  /* Separate day groups with a border-bottom */
+  #timetable-table tbody tr:last-child {
+    border-bottom: 2px solid black;
+  }
+
+  /* Define the style for odd rows */
+#timetable-table tbody tr:nth-child(odd) {
+    background-color: lightgray;
+}
+
+  /* Responsive styles */
+  @media (max-width: 768px) {
+    #timetable-table {
+      font-size: 12px;
+    }
+  
+    #timetable-table th,
+    #timetable-table td {
+      padding: 6px;
+    }
+  }
+  

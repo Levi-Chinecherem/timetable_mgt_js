@@ -1,0 +1,213 @@
+{
+  "courses": [
+    {
+      "code": "CS101",
+      "name": "Introduction to Programming",
+      "description": "This course provides an introduction to programming concepts and techniques. It covers basic programming constructs such as variables, control structures, and functions. Students will learn how to write simple programs using a high-level programming language.",
+      "topics": [
+        "Introduction to programming",
+        "Variables and data types",
+        "Control structures",
+        "Functions"
+      ],
+      "level": "Level 100",
+      "semester": "Semester 1"
+    },
+    {
+      "code": "CS102",
+      "name": "Data Structures",
+      "description": "This course explores the fundamental data structures used in computer science. It covers topics such as arrays, linked lists, stacks, queues, trees, and graphs. Students will learn how to implement and use these data structures to solve various computational problems.",
+      "topics": [
+        "Arrays",
+        "Linked lists",
+        "Stacks and queues",
+        "Trees",
+        "Graphs"
+      ],
+      "level": "Level 100",
+      "semester": "Semester 1"
+    },
+    {
+      "code": "CS103",
+      "name": "Database Management Systems",
+      "description": "This course introduces the principles and techniques of database management systems. It covers topics such as data modeling, relational databases, SQL, and database design. Students will learn how to create and manipulate databases, as well as write complex queries to retrieve and modify data.",
+      "topics": [
+        "Data modeling",
+        "Relational databases",
+        "SQL",
+        "Database design"
+      ],
+      "level": "Level 100",
+      "semester": "Semester 2"
+    },
+    {
+      "code": "CS104",
+      "name": "Computer Networks",
+      "description": "This course provides an overview of computer networks and their protocols. It covers topics such as network architecture, TCP/IP, network security, and network troubleshooting. Students will learn how networks are designed, implemented, and managed.",
+      "topics": [
+        "Network architecture",
+        "TCP/IP",
+        "Network security",
+        "Network troubleshooting"
+      ],
+      "level": "Level 100",
+      "semester": "Semester 2"
+    },
+    {
+      "code": "CS201",
+      "name": "Operating Systems",
+      "description": "This course explores the concepts and principles of operating systems. It covers topics such as process management, memory management, file systems, and device management. Students will gain a deep understanding of how operating systems function and interact with hardware and software components.",
+      "topics": [
+        "Process management",
+        "Memory management",
+        "File systems",
+        "Device management"
+      ],
+      "level": "Level 200",
+      "semester": "Semester 1"
+    },
+    {
+      "code": "CS202",
+      "name": "Web Development",
+      "description": "This course focuses on the development of dynamic and interactive websites. It covers topics such as HTML, CSS, JavaScript, and web frameworks. Students will learn how to create web applications that can handle user interactions and data processing.",
+      "topics": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Web frameworks"
+      ],
+      "level": "Level 200",
+      "semester": "Semester 1"
+    },
+    {
+      "code": "CS203",
+      "name": "Artificial Intelligence",
+      "description": "This course introduces the concepts and techniques of artificial intelligence. It covers topics such as problem-solving, knowledge representation, machine learning, and natural language processing. Students will explore various AI algorithms and develop AI applications.",
+      "topics": [
+        "Problem-solving",
+        "Knowledge representation",
+        "Machine learning",
+        "Natural language processing"
+      ],
+      "level": "Level 200",
+      "semester": "Semester 2"
+    },
+    {
+      "code": "CS204",
+      "name": "Software Engineering",
+      "description": "This course focuses on the principles and practices of software engineering. It covers topics such as software development methodologies, requirements engineering, software design, and testing.",
+      "topics": [
+        "Software development methodologies",
+        "Requirements engineering",
+        "Software design",
+        "Testing"
+      ],
+      "level": "Level 200",
+      "semester": "Semester 2"
+    },
+    {
+      "code": "CS301",
+      "name": "Algorithms",
+      "description": "This course explores advanced algorithms and data structures. It covers topics such as sorting algorithms, graph algorithms, dynamic programming, and NP-completeness. Students will learn how to analyze and design efficient algorithms for solving complex computational problems.",
+      "topics": [
+        "Sorting algorithms",
+        "Graph algorithms",
+        "Dynamic programming",
+        "NP-completeness"
+      ],
+      "level": "Level 300",
+      "semester": "Semester 1"
+    },
+    {
+      "code": "CS302",
+      "name": "Distributed Systems",
+      "description": "This course focuses on the design and implementation of distributed systems. It covers topics such as network communication, distributed file systems, distributed consensus, and fault tolerance. Students will learn how to build scalable and reliable distributed applications.",
+      "topics": [
+        "Network communication",
+        "Distributed file systems",
+        "Distributed consensus",
+        "Fault tolerance"
+      ],
+      "level": "Level 300",
+      "semester": "Semester 1"
+    },
+    {
+      "code": "CS303",
+      "name": "Machine Learning",
+      "description": "This course delves into the theory and practice of machine learning. It covers topics such as supervised learning, unsupervised learning, deep learning, and reinforcement learning. Students will develop skills in training and evaluating machine learning models.",
+      "topics": [
+        "Supervised learning",
+        "Unsupervised learning",
+        "Deep learning",
+        "Reinforcement learning"
+      ],
+      "level": "Level 300",
+      "semester": "Semester 2"
+    },
+    {
+      "code": "CS304",
+      "name": "Computer Graphics",
+      "description": "This course focuses on the principles and techniques of computer graphics. It covers topics such as 2D and 3D transformations, rendering algorithms, shading, and animation. Students will gain hands-on experience in creating visually appealing graphics applications.",
+      "topics": [
+        "2D and 3D transformations",
+        "Rendering algorithms",
+        "Shading",
+        "Animation"
+      ],
+      "level": "Level 300",
+      "semester": "Semester 2"
+    },
+    {
+      "code": "CS401",
+      "name": "Natural Language Processing",
+      "description": "This course explores the field of natural language processing (NLP). It covers topics such as text preprocessing, language modeling, sentiment analysis, and machine translation. Students will work with NLP tools and frameworks to develop language processing applications.",
+      "topics": [
+        "Text preprocessing",
+        "Language modeling",
+        "Sentiment analysis",
+        "Machine translation"
+      ],
+      "level": "Level 400",
+      "semester": "Semester 1"
+    },
+    {
+      "code": "CS402",
+      "name": "Cloud Computing",
+      "description": "This course focuses on the principles and technologies of cloud computing. It covers topics such as virtualization, containerization, cloud architectures, and cloud services. Students will gain hands-on experience in deploying and managing applications in cloud environments.",
+      "topics": [
+        "Virtualization",
+        "Containerization",
+        "Cloud architectures",
+        "Cloud services"
+      ],
+      "level": "Level 400",
+      "semester": "Semester 1"
+    },
+    {
+      "code": "CS403",
+      "name": "Cybersecurity",
+      "description": "This course explores the fundamentals of cybersecurity. It covers topics such as network security, cryptography, secure software development, and incident response. Students will learn how to protect computer systems and data from cyber threats.",
+      "topics": [
+        "Network security",
+        "Cryptography",
+        "Secure software development",
+        "Incident response"
+      ],
+      "level": "Level 400",
+      "semester": "Semester 2"
+    },
+    {
+      "code": "CS404",
+      "name": "Data Mining",
+      "description": "This course focuses on techniques and algorithms for extracting knowledge from large datasets. It covers topics such as data preprocessing, association rule mining, clustering, and classification. Students will gain practical skills in analyzing and interpreting data for decision-making.",
+      "topics": [
+        "Data preprocessing",
+        "Association rule mining",
+        "Clustering",
+        "Classification"
+      ],
+      "level": "Level 400",
+      "semester": "Semester 2"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Timetable Management - View Timetable</title>
+  <link rel="stylesheet" href="css/timetable.css">
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script src="js/timetable.js"></script>
+</head>
+<body>
+  <h1>View Timetable</h1><br>
+
+  <form id="timetable-form">
+    <label for="level">Level:</label>
+    <select id="level">
+    <option>Select</option>
+    </select>
+
+    <label for="semester">Semester:</label>
+    <select id="semester"></select>
+
+    <button type="submit">View Timetable</button>
+  </form><br>
+
+  <table id="timetable-table">
+    <thead>
+      <tr>
+        <th>Day</th>
+        <th>Start Time</th>
+        <th>End Time</th>
+        <th>Course</th>
+        <th>Lecturer</th>
+        <th>Semester</th>
+      </tr>
+    </thead>
+    <tbody>
+      <!-- Timetable data will be populated dynamically here -->
+    </tbody>
+  </table>
+</body>
+</html>

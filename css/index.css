@@ -1,0 +1,75 @@
+/* Reset some default styles */
+body, h1, h2, h3, p, ul, li {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Gradient Background */
+  body {
+    background-color:  #6dd5fa;
+    margin: 20px 10%;
+    padding: 0;
+    font-family: cursive;
+  }
+
+  /* Page Container */
+  #container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+
+  /* Header */
+  h1 {
+    text-align: center;
+    color: #333;
+  }
+
+  /* Navigation Links */
+  nav {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+
+  nav ul {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    list-style: none;
+  }
+
+
+  nav ul li a {
+    display: inline-block;
+    margin: 10px;
+    padding: 10px 20px;
+    color: #fff;
+    background: #2980b9;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background 0.3s;
+  }
+
+  nav ul li a:hover {
+    background: #2f5b6b71;
+  }
+
+  /* Content */
+  #content {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+
+  /* Responsive Styling */
+  @media screen and (max-width: 600px) {
+    #container {
+      max-width: 100%;
+      padding: 10px;
+    }
+  }

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Lecturer View</title>
+  <link rel="stylesheet" type="text/css" href="css/lecturer.css">
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script src="../js/lecturer.js"></script>
+</head>
+<body>
+  <h1>View Lecturer</h1><br>
+  
+  <form id="lecturer-form">
+    <label for="level">Level:</label>
+    <select id="level" name="level">
+      <option value="">Select Level</option>
+    </select>
+    
+    <label for="semester">Semester:</label>
+    <select id="semester" name="semester">
+      <option value="">Select Semester</option>
+    </select>
+    
+    <button type="submit">Submit</button>
+  </form>
+  
+  <h2>Lecturers:</h2>
+  <ul id="lecturer-list"></ul>
+</body>
+</html>
