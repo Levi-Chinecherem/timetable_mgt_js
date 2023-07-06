@@ -24,7 +24,7 @@ The Timetable Management System is a JavaScript-based application that allows us
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/timetable-management.git`
+1. Clone the repository: `git clone https://github.com/Levi-Chinecherem/timetable_mgt_js.git`
 2. Navigate to the project directory: `cd timetable-management`
 3. Open the project in a text editor.
 
