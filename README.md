@@ -1,4 +1,6 @@
 # Project Name
+![Sample Image](https://github.com/Levi-Chinecherem/timetable_mgt_js/blob/master/Capture.PNG)
+
 
 Timetable Management System
 
