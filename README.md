@@ -61,6 +61,8 @@ Contributions to this project are welcome. To contribute, follow these steps:
 
 This project is licensed under the [MIT License](LICENSE).
 
+### If you ever use this project in anyway do give me some credit
+
 ## Acknowledgements
 
 - [jQuery](https://jquery.com/)
